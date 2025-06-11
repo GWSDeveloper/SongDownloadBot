@@ -4,7 +4,7 @@ import yt_dlp
 import subprocess
 import uuid
 
-BOT_TOKEN = "7613559166:AAF7xAl4ASefPUI8Fxj-7j2p2ABxqKyVd3M"
+BOT_TOKEN = "7613559166:AAH_XTzs8ov1_SAdKrH5RsTqMx0SzpjJ8lc"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # ✨ /song command handler
